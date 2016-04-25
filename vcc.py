@@ -83,4 +83,4 @@ def number_set2(question):
      	print ""
 	starting_question("Would you like to play again? Y/N: ", "Thanks for playing!")
 
-starting_question("Welcome to the Fortune Teller! Would you like to know your future? Y/N: ") edit!
+starting_question("Welcome to the Fortune Teller! Would you like to know your future? Y/N: ")
